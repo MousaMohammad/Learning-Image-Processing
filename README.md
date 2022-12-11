@@ -9,3 +9,16 @@ the repository consists of 9 labs covering fundamental topics in Image Processin
 
 - Gaussian filter with different sigma 
  ![Gaussian filter applied to salt and pepper noise](/Lab-03-Smoothing-STD/gaussian.png)
+ 
+ > ### Lab4: Contrast Enhancement
+- Negative transformation
+![Image Negative transformation](/Lab04-ContrastEnhancement-std/negative.png)
+
+- Contrast enhancement by stretching gray levels 
+ ![Contrast enhancement stretching gray levels](/Lab04-ContrastEnhancement-std/contrast_stretch.png)
+ 
+ - Histogram Equalization 
+ ![Histogram Equalization](/Lab04-ContrastEnhancement-std/hist_equalization.png)
+ 
+ ![Histogram Equalization](/Lab04-ContrastEnhancement-std/hist_before.png) - ![Histogram Equalization](/Lab04-ContrastEnhancement-std/hist_after.png)
+
