@@ -18,7 +18,7 @@ the repository consists of 9 labs covering fundamental topics in Image Processin
  ![Contrast enhancement stretching gray levels](/lab04-ContrastEnhancement-std/contrast_stretch.png)
  
  - Histogram Equalization 
- ![Histogram Equalization](/Lab04-ContrastEnhancement-std/hist_equalization.png)
+ ![Histogram Equalization](/lab04-ContrastEnhancement-std/hist_equalization.png)
  
  ![Histogram Equalization](/lab04-ContrastEnhancement-std/hist_before.png) - ![Histogram Equalization](/lab04-ContrastEnhancement-std/hist_after.png)
 
