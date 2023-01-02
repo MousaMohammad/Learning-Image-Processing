@@ -24,9 +24,9 @@ the repository consists of 9 labs covering fundamental topics in Image Processin
  
  > ### Lab5: Edge Detection
 - Applying Roberts and Sobel edge detectors
-![Image Negative transformation](/Lab-Edge-Detection/images/sobel_roberts.png)
+![Image Negative transformation](/Lab_Edge_Detection/images/sobel_roberts.png)
 
 - Canny Edge detector with different smoothing sigma and trying different low/high thresholds  
- ![Canny edge detector with different thresholds](/Lab-Edge-Detection/images/CannyEdges.png)
+ ![Canny edge detector with different thresholds](/Lab_Edge_Detection/images/CannyEdges.png)
  
 
