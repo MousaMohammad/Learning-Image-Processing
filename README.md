@@ -34,9 +34,9 @@ the repository consists of 9 labs covering fundamental topics in Image Processin
 ![erosion dilation](/Lab-Morphology/output/erosion_dilation.png)
 
 - Credit Card Number Extraction: by using erosion and dilation along with contours to get bounding boxes
- ![Credit Card Number Extraction](/Lab-Morphology/output/creditCard.png)
+ ![Credit Card Number Extraction](/Lab-Morphology/output/creditcard.png)
  
  - Skeltonize the horse Vs thin by only 20 iteration
- ![Skeltonize Vs thin(/Lab-Morphology/output/thin.png)
+ ![Skeltonize Vs thin](/Lab-Morphology/output/thin.png)
  
 
