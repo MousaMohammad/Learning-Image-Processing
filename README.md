@@ -13,9 +13,6 @@ the repository consists of 9 labs covering fundamental topics in Image Processin
  > ### Lab4: Contrast Enhancement
 - Negative transformation
 ![Image Negative transformation](/lab04-ContrastEnhancement-std/negative.png)
-
-- Contrast enhancement by stretching gray levels 
- ![Contrast enhancement stretching gray levels](/lab04-ContrastEnhancement-std/contrast_stretch.png)
  
  - Histogram Equalization 
  ![Histogram Equalization](/lab04-ContrastEnhancement-std/hist_equalization.png)
