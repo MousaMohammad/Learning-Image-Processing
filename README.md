@@ -21,4 +21,12 @@ the repository consists of 9 labs covering fundamental topics in Image Processin
  ![Histogram Equalization](/lab04-ContrastEnhancement-std/hist_equalization.png)
  
  ![Histogram Equalization](/lab04-ContrastEnhancement-std/hist_before.png) - ![Histogram Equalization](/lab04-ContrastEnhancement-std/hist_after.png)
+ 
+ > ### Lab5: Edge Detection
+- Applying Roberts and Sobel edge detectors
+![Image Negative transformation](/Lab-Edge-Detection/images/sobel_roberts.png)
+
+- Canny Edge detector with different smoothing sigma and trying different low/high thresholds  
+ ![Canny edge detector with different thresholds](/Lab-Edge-Detection/images/CannyEdges.png)
+ 
 
