@@ -42,6 +42,6 @@ the repository consists of 9 labs covering fundamental topics in Image Processin
  
   > ### Lab8: Segmentation 2 - adaptive thresholding techniques
 - histogram automatic thresholding technique result in threshold = 89.
- ![adaptive thresholding techniques](/lab07-Segmentation/output/threshold.png)
+ ![adaptive thresholding techniques](/Lab-Seg-2/output/threshold.png)
  
 
