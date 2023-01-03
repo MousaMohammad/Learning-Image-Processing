@@ -40,4 +40,8 @@ the repository consists of 9 labs covering fundamental topics in Image Processin
 - Segmenting the grass from the image by calculating the distance from grass color, then apply threshold.
  ![segmentation by threshold and distance](/lab07-Segmentation/output/grass.png)
  
+  > ### Lab8: Segmentation 2 - adaptive thresholding techniques
+- histogram automatic thresholding technique result in threshold = 89.
+ ![adaptive thresholding techniques](/lab07-Segmentation/output/threshold.png)
+ 
 
