@@ -36,4 +36,8 @@ the repository consists of 9 labs covering fundamental topics in Image Processin
  - Skeltonize the horse Vs thin by only 20 iteration
  ![Skeltonize Vs thin](/Lab-Morphology/output/thin.png)
  
+ > ### Lab7: Segmentation 1
+- Segmenting the grass from the image by calculating the distance from grass color, then apply threshold.
+ ![segmentation by threshold and distance](/lab07-Segmentation/output/grass.png)
+ 
 
