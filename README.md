@@ -44,4 +44,8 @@ the repository consists of 9 labs covering fundamental topics in Image Processin
 - histogram automatic thresholding technique result in threshold = 89.
  ![adaptive thresholding techniques](/Lab-Seg-2/output/threshold.png)
  
+  > ### Lab9: textures - segmentation 
+- extracting glcm features from different textures then use them to identify and segment these textures in a given image like cotton, jeans, and background. 
+ ![glcm features textures segementation](/lab09-textures/output/texture.png)
+ 
 
